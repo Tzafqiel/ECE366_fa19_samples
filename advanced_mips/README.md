@@ -7,7 +7,7 @@ To run simulator on Terminal  :  python MIPS-sim.py
 ````
 
 ## Simple implementation of single-cycle Cache simulator , created by the TA
-Grad TA's versiob: cache_sim.py,    i_mem.txt
+Grad TA's version: cache_sim.py,    i_mem.txt
 ````
 To run Cache-sim on Terminal :   python cache_sim.py
 ````
