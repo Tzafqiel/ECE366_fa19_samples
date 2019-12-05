@@ -11,7 +11,7 @@
 
 import math
 # For simple example, let's have all settings as global-variables
-blk_size = 4
+blk_size = 4    # 4 words, 16 bytes
 word_offset = int(math.log(blk_size,2)) 
 total_blk = 8   # 8 blocks in cache 
 set_offset = int(math.log(total_blk,2))
